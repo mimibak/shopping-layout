@@ -1,4 +1,4 @@
-Task 10/17/2023:
+<h1>Task 10/17/2023:</h1>
 
 You are a frontend developer working at an agency. The design team gives you the design shown below. Your task is to recreate the given design with HTML and CSS.
 
@@ -7,4 +7,4 @@ You will find the assets (product images) below
 The font used is called "Quicksand"
 Attention to detail: Find a way to create the two-colored color-picker circles
 
-. images excluded
+- images excluded
